@@ -25,7 +25,6 @@
 
 </div>
 
-🚀 Professional Profile
 <div align="center">
 <table width="100%">
 <tr>
@@ -99,7 +98,7 @@ Strength: Transforming complex ideas into elegant solutions
 </table>
 </div>
 
-🐍 Contribution Snake (Animated)
+
 <div align="center">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bachwer/bachwer/output/github-contribution-grid-snake-dark.svg">
