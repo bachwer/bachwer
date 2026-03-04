@@ -1,9 +1,13 @@
 name: generate animation
 on:
-  # Chạy tự động mỗi 24 giờ
+  # Chạy tự động vào đúng 00:00 mỗi ngày (UTC)
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 0 * * *" 
+  
+  # Cho phép chạy thủ công từ tab Actions
   workflow_dispatch:
+  
+  # Chạy mỗi khi có push lên nhánh main
   push:
     branches:
     - main
