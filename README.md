@@ -3,12 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=👋%20Hey,%20I'm%20Wer!&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Vibe%20Coder%20%E2%80%A2%20Creative%20Technologist&descAlignY=55&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=⚡+Vibe+Coding:+High+performance+with+modern+tech;🚀+Code+is+poetry.+Let's+make+it+beautiful;☁️+Building+scalable+Cloud+architectures;🤝+Mentoring+%26+Open-source+contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Vibe+Coder+%E2%80%A2+Vibe+Hacker;Full-Stack+Developer;Creative+Technologist;Building+digital+experiences+that+make+people+smile" alt="Typing SVG" />
   </a>
 
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=spotify">
-    <img src="https://res.cloudinary.com/dvbxj8sdd/video/upload/v1772592378/Justin_Bieber_Chill_Guitar_Type_Beat_HONEY_swlri1.mp3" alt="Spotify" />
-  </a>
+
 
   <br><br>
   
