@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=spotify">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
+    <img src="https://res.cloudinary.com/dvbxj8sdd/video/upload/v1772592378/Justin_Bieber_Chill_Guitar_Type_Beat_HONEY_swlri1.mp3" alt="Spotify" />
   </a>
 
   <br><br>
@@ -44,7 +44,7 @@
 ## 🏆 3D GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bachwer&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="bachwer" />
+    <img src="https://github-profile-repo.vercel.app/?username=bachwer&theme=light" alt="bachwer" />
   </a>
 </p>
 
