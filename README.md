@@ -1,5 +1,15 @@
+
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=300&section=header&text=👋%20Hey,%20I'm%20Wer!&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Vibe%20Coder%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=60&descAlign=50" width="100%"/>
+
+<table border="0">
+<tr>
+<td align="center">
+<img src="https://avatars.githubusercontent.com/u/110678064?v=4" width="180px" style="border-radius: 50%; border: 4px solid #00F2FE; box-shadow: 0 0 20px #00F2FE;" />
+</td>
+</tr>
+</table>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Vibe+Coder+%E2%80%A2+Vibe+Hacker;Full-Stack+Developer;Creative+Technologist;Building+digital+experiences+that+make+people+smile" alt="Typing SVG" />
@@ -14,26 +24,38 @@
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 </p>
+
 </div>
 
-🚀 About Me
+🚀 Professional Profile
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" style="vertical-align: top;">
 
+👤 Identity
+Name: Quach Bach (Wer)
 
-🎯 Name: Quách Bách (Wer)
+Role: Vibe Coding • Vibe Hacking
 
-💼 Title: vibe coding - vibe Hacking
+Location: Vietnam 🇻🇳
 
-🇻🇳 Location: Vietnam
+Focus: Building digital experiences that make people smile
 
-🎨 Passion: Clean Code, UI/UX Design, Cloud Architecture
+</td>
+<td width="50%" style="vertical-align: top;">
 
-⚡ Philosophy: Code is Poetry. Let's make it beautiful. ✨
+💡 Philosophy
+Passion: Clean Code & UI/UX Design
 
-🚀 Mission: Building digital experiences that make people smile
+Core: Code is Poetry. Let's make it beautiful. ✨
 
-💪 Strength: Transforming complex ideas into elegant solutions
+Strength: Transforming complex ideas into elegant solutions
 
-🛠️ Tech Stack Showcase (Glass UI)
+</td>
+</tr>
+</table>
+</div>
 <div align="center">
 
 <h3 style="color: #00F2FE;">🎨 Frontend Arsenal</h3>
