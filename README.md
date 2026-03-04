@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=300&section=header&text=👋%20Hey,%20I'm%20Wer!&fontSize=70&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Vibe%20Coder%20%E2%80%A2%20Creative%20Technologist%20%E2%80%A2%20Full-Stack%20Dev&descAlignY=60&descAlign=50" width="100%"/>
-
 <table border="0">
 <tr>
 <td align="center">
@@ -12,7 +10,7 @@
 </table>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Vibe+Coder+%E2%80%A2+Vibe+Hacker;Full-Stack+Developer;Creative+Technologist;Building+digital+experiences+that+make+people+smile" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Vibe+Coder+%E2%80%A2+Vibe+Hacker;Hacker-LoR;Creative+Technologist;Building+digital+experiences+that+make+people+smile" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -33,7 +31,7 @@
 <tr>
 <td width="50%" style="vertical-align: top;">
 
-👤 Identity
+
 Name: Quach Bach (Wer)
 
 Role: Vibe Coding • Vibe Hacking
