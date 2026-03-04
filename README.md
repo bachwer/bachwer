@@ -106,7 +106,7 @@ Strength: Transforming complex ideas into elegant solutions
 
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=bachwer&theme=tokyonight&no-frame=true&margin-w=20&row=2&column=3" width="100%" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=bachwer&theme=tokyonight&no-frame=true&margin-w=20&row=2&column=3" width="100%" />
 </td>
 </tr>
 </table>
