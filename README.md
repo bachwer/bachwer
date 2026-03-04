@@ -67,38 +67,25 @@ Strength: Transforming complex ideas into elegant solutions
 
 </div>
 
-📈 Analytics & Achievements
+
 <div align="center">
-<table width="100%">
-<tr>
-<td align="center" width="50%">
-<b>📊 GitHub Stats</b>
 
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=bachwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=00F2FE&icon_color=00F2FE&ring_color=00F2FE" width="20%" />
-</td>
-<td align="center" width="50%">
 <b>🔥 Contribution Streak</b>
 
 
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bachwer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F2FE&ring=00F2FE&fire=FF6B6B&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=00F2FE" width="100%" />
-</td>
-</tr>
-</table>
+
+
 
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<b>💻 Most Used Languages</b>
 
 
-
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8wb2toYnF4czZ5Y2VlYmN0b2g3bTF1bGlkdzJvN3psMWw5Y3ExZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8wb2toYnF4czZ5Y2VlYmN0b2g3bTF1bGlkdzJvN3psMWw5Y3ExZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="50%" />
 </td>
 <td align="center" width="50%">
 <b>🏆 Achievements</b>
