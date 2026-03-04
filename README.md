@@ -109,5 +109,5 @@ Strength: Transforming complex ideas into elegant solutions
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=75&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=150&section=footer&text=Wer%20&fontSize=40&fontAlignY=75&animation=twinkling" width="100%"/>
 </div>
