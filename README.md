@@ -21,7 +21,7 @@
 
 🎯 Name: Quách Bách (Wer)
 
-💼 Title: Full-Stack Developer & Vibe Technologist
+💼 Title: vibe coding - vibe Hacking
 
 🇻🇳 Location: Vietnam
 
