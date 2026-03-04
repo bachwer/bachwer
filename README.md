@@ -77,7 +77,7 @@ Strength: Transforming complex ideas into elegant solutions
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=bachwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=00F2FE&icon_color=00F2FE&ring_color=00F2FE" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bachwer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&text_color=58A6FF&title_color=00F2FE&icon_color=00F2FE&ring_color=00F2FE" width="20%" />
 </td>
 <td align="center" width="50%">
 <b>🔥 Contribution Streak</b>
