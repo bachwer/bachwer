@@ -98,7 +98,7 @@ Strength: Transforming complex ideas into elegant solutions
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachwer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=58A6FF&title_color=00F2FE" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG8wb2toYnF4czZ5Y2VlYmN0b2g3bTF1bGlkdzJvN3psMWw5Y3ExZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100%" />
 </td>
 <td align="center" width="50%">
 <b>🏆 Achievements</b>
