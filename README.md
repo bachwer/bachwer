@@ -1,6 +1,7 @@
 
 <div align="center">
 
+
 <table border="0">
 <tr>
 <td align="center">
@@ -42,6 +43,8 @@ Focus: Building digital experiences that make people smile
 </td>
 <td width="50%" style="vertical-align: top;">
 
+
+<br>
 💡 Philosophy
 Passion: Clean Code & UI/UX Design
 
@@ -71,6 +74,7 @@ Strength: Transforming complex ideas into elegant solutions
 
 
 <b>🔥 Contribution Streak</b>
+
 
 
 
@@ -107,6 +111,13 @@ Strength: Transforming complex ideas into elegant solutions
 </picture>
 </div>
 
+<a href="https://ko-fi.com/bachwer" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://storage.ko-fi.com/cdn/kofi5.png?v=3" 
+    alt="Support me on Ko-fi" 
+    style="height:48px;border:0;"
+  />
+</a>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=150&section=footer&text=Wer%20&fontSize=40&fontAlignY=75&animation=twinkling" width="100%"/>
 </div>
