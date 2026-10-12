@@ -14,7 +14,7 @@
 </a>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=bachwer&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge" alt="Profile views" />
+
 <a href="https://linkedin.com/in/quach-bach-2793852a1">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
