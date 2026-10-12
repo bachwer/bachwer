@@ -25,52 +25,8 @@
 
 </div>
 
-<div align="center">
-<table width="100%">
-<tr>
-<td width="50%" style="vertical-align: top;">
 
 
-Name: Quach Bach (Wer)
-
-Role: Vibe Coding • Vibe Hacking
-
-Location: Vietnam 🇻🇳
-
-Focus: Building digital experiences that make people smile
-
-</td>
-<td width="50%" style="vertical-align: top;">
-
-💡 Philosophy
-Passion: Clean Code & UI/UX Design
-
-Core: Code is Poetry. Let's make it beautiful. ✨
-
-Strength: Transforming complex ideas into elegant solutions
-
-</td>
-</tr>
-</table>
-</div>
-<div align="center">
-
-<h3 style="color: #00F2FE;">🎨 Frontend Arsenal</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,vite,figma&perline=10&theme=dark" />
-
-<h3 style="color: #00F2FE;">⚙️ Backend & Databases</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,python,php,postgres,mongodb,firebase,mysql,prisma&perline=10&theme=dark" />
-
-<h3 style="color: #00F2FE;">☁️ DevOps & Tools</h3>
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes,git,linux,github,vscode,postman,electron&perline=10&theme=dark" />
-
-</div>
-
-
-<div align="center">
-
-
-<b>🔥 Contribution Streak</b>
 
 
 
